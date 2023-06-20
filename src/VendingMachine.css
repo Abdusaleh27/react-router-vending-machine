@@ -1,0 +1,25 @@
+.nav-item{
+    width:80px;
+    height: 25px;
+    text-justify: auto;
+    margin: auto;
+    margin-bottom: 10px;
+    border: 0px solid ;
+    border-radius: 3px;
+    background-color:peachpuff;
+    color: aliceblue;
+}
+.nav-item:hover{
+    background-color:rgb(220, 175, 135);
+}
+.vmachine {
+    border: 2px black solid;
+    border-radius: 10px;
+    width: 300px;
+    margin: auto;
+    background-color: coral;
+    color: white;
+}
+a{
+    text-decoration: none;
+}

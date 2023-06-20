@@ -1,0 +1,11 @@
+.nav-bar {
+  background-color: rosybrown;
+}
+.nav-comp {
+  margin-right: 35px;
+  width: 100px;
+  border-radius: 1px;
+}
+.selected {
+  font-weight: bolder;
+}
